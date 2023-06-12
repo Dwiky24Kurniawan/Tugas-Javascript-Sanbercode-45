@@ -35,16 +35,6 @@ var productBin = {
     "message": "success"
   } 
 
-//Menggunakan .map dan .reduce
-/* var jumlahQty = productBin.data.map(qty => qty.quantity).reduce((Qty, jmlQty) => Qty + jmlQty);
-console.log("Jumlah seluruh quantity = " + jumlahQty) */
-
-//Menggunakan .reduce
-/* var jumlahQty = productBin.data.reduce(function(_this, val) {
-  return _this + val.quantity
-}, 0);
-console.log("Jumlah seluruh quantity = " + jumlahQty) */
-
 //Menggunakan perulangan for
 let jumlahQty = 0
 function jumlahQuantity(responseData){
