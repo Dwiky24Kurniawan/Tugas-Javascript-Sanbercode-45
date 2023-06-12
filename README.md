@@ -6,11 +6,26 @@ Ini adalah tugas javascript bootcamp sanbercode quality assurance batch 45 yang 
 
 Installation
 
-```npm init```
-```npm install```
-```npm install prompt-sync```
+```
+npm init
+```
+
+```
+npm install
+```
+
+```
+npm install prompt-sync
+```
 
 How to run
 
-```node soal1.js```
-```node soal2.js```
+```
+node soal1.js
+```
+
+```
+node soal2.js
+```
+
+Link recorded running program : 
