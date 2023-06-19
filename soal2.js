@@ -35,7 +35,7 @@ var productBin = {
     "message": "success"
   } 
 
-//Menggunakan perulangan for
+//Menjumlahkan seluruh quantity menggunakan perulangan for
 let jumlahQty = 0
 function jumlahQuantity(responseData){
   for (let i=0; i<responseData.data.length; i++){

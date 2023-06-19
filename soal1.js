@@ -1,6 +1,6 @@
 const prompt = require('prompt-sync')({ sigint: true });
 
-// deklarasi variabel angka untuk menampung inputan
+// deklarasi nama variabel angka untuk menampung inputan
 var angka = prompt("Masukkan angka = ");
 
 // cek, jika bukan angka && angka >= 0 (tidak minus)
