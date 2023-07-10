@@ -28,4 +28,4 @@ node soal1.js
 node soal2.js
 ```
 
-Link recorded running program : https://drive.google.com/file/d/1vt-TwuaQJODhLilBE7m0CChOF896wh64/view?usp=sharing
+Link screen recording of running program : https://drive.google.com/file/d/1vt-TwuaQJODhLilBE7m0CChOF896wh64/view?usp=sharing
